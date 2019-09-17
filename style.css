@@ -1,3 +1,26 @@
-h1 {
-  color: red;
+body{
+	color: black;
+	font-size: green;
+	text-align: center;
+	background: grey;
+	font-family: 'ariana', cursive;
+} 
+img{
+	width: 800px
 }
+.canard{ width: 400px
+	}
+
+.box-green {
+	background: green;
+	margin: 100px;
+	padding: 100px;
+}
+.box-global {
+	background: black;
+	padding: 50px
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.box-blue {}
